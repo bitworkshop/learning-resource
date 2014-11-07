@@ -3,6 +3,6 @@
 
 ####程序组
 
->
->[python基础资料](https://github.com/ranlei/pycrumbs/blob/master/pycrumbs.md)
->
+
+*   [pyhon](https://github.com/ranlei/pycrumbs/blob/master/pycrumbs.md)
+*   [php](#)
