@@ -25,7 +25,7 @@
 *   [sunnist](http://sunnist.github.io/)
 >   完颜绍雪： 霸气的姓名，做产品的计科女
 *   [huip](http://www.huip.org/)
->   彭慧： 来自金融工程的程序组长 ，实现自己的梦想，他在比特有许多充满正能量的传奇故事，相信大家不会陌生的(偷笑)。
+>   彭慧： 来自金融工程的程序组长 ，他在比特有许多充满正能量的传奇故事，相信大家不会陌生的(偷笑)。
 *   [yaozhen](http://iyaozhen.com/)
 >   姚振：资讯民大之父
 *   [yzsolo](http://aresyz.com/)
