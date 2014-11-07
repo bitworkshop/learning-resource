@@ -16,15 +16,20 @@
 >
 
 ####biter博客
-
-*   [ys(吕伟)](http://blog.ysmood.org)
->
-> 博主介绍:吕伟是比特的第一批成员，他的很多作品，以及他的为人风格都深深影响者后面的biter，尤其是他的分享精神是我们每一位biter应该学习的地方。
->
-
-*   [huip(彭慧)](http://www.huip.org/)
->
-> 博主介绍:首先，彭慧是一位男神，来自于民大经院，和张宴学长一样来自于经济学院，因为兴趣，他自学技术，实现自己的梦想，他在比特有许多充满正能量的传奇故事，相信大家不会陌生的(偷笑)。
->
-
+*   [enimo](http://blog.anymoore.com/)  
+>   骆勤： 比特第一位主管，创始人之一
+*   [ys](http://blog.ysmood.org)  
+>  吕伟:比特的第一批成员，他的很多作品，尤其是他的分享精神是我们每一位biter应该学习的地方。
+*   [mygoare](http://mygoare.com/)  
+>  毛伟国： 毛哥比特第一届成员，第二届主管，博客里面有很多文章可以去学习一下。
+*   [sunnist](http://sunnist.github.io/)  
+>   完颜绍雪： 霸气的姓名，做产品的计科女
+*   [huip](http://www.huip.org/)  
+>   彭慧： 来自金融工程的程序组长 ，他在比特有许多充满正能量的传奇故事，相信大家不会陌生的(偷笑)。
+*   [yaozhen](http://iyaozhen.com/)  
+>   姚振：资讯民大之父
+*   [yzsolo](http://aresyz.com/)  
+>   杨振： 虽然只有一个页面
+*   [polande](http://www.polande.com)  
+>   黄国瑞: 无耻的加上自己
 
