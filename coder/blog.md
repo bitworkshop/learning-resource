@@ -24,10 +24,10 @@
 ######2008级
 *   [mygoare](http://mygoare.com/)  
     毛伟国： 毛哥比特第一届成员，第二届主管，博客里面有很多文章可以去学习一下。
-*   [sunnist](http://sunnist.github.io/)  
-    完颜绍雪： 霸气的姓名，做产品的计科女。
 
 ######2009级
+*   [sunnist](http://sunnist.github.io/)  
+    完颜绍雪： 霸气的姓名，做产品的计科女。
 *   [ys](http://blog.ysmood.org)   
     吕伟:比特的第一批成员，他的很多作品，尤其是他的分享精神是我们每一位biter应该学习的地方。
 
