@@ -45,7 +45,6 @@
 *   [rale](http://ranlei.github.io/)
     冉雷:从事python开发。
 
-
 ######2012级
 *   [polande](http://www.polande.com)  
     黄国瑞: 爱产品的山东技术野汉子(程序员要骄傲的推荐自己)。
