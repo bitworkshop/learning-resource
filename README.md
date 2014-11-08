@@ -9,11 +9,11 @@
 
 
 *   [pyhon](https://github.com/bitworkshop/learning-resource/blob/master/coder/python.md)
->   import this   
+    import this   
 *   [php](https://github.com/bitworkshop/learning-resource/blob/master/coder/php.md)
->   php是随着web时代火起来的语言，能够用它快速搭建站点，我们团队项目后端都是使用php搭建(2014.10)。
+    php是随着web时代火起来的语言，能够用它快速搭建站点，我们团队项目后端都是使用php搭建(2014.10)。
 *   [技术博客列表(含比特成员)](https://github.com/bitworkshop/learning-resource/blob/master/coder/blog.md)
->   用于收集大家觉得有意思的博客以及我们团队自己成员的博客汇总。
+    用于收集大家觉得有意思的博客以及我们团队自己成员的博客汇总。
 
 #####如何贡献
 
