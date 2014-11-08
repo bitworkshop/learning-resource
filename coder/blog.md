@@ -36,13 +36,13 @@
     彭慧： 来自金融工程的程序组长 ，他在比特有许多充满正能量的传奇故事，相信大家不会陌生的(偷笑)。
 
 ######2011级
-*   [yaozhen](http://iyaozhen.com/)  
+*   [yaozhen](http://iyaozhen.com/)      
     姚振：资讯民大之父。
-*   [yzsolo](http://aresyz.com/)  
+*   [yzsolo](http://aresyz.com/)    
     杨振： 被闻玲赐名为小新的萌娃。
-*   [Burhh](http://vader.gitcafe.com/)
+*   [Burhh](http://vader.gitcafe.com/)  
     张邵维：目前热衷于前端。
-*   [rale](http://ranlei.github.io/)
+*   [rale](http://ranlei.github.io/)    
     冉雷:从事python开发。
 
 ######2012级
