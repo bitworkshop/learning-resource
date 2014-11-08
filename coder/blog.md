@@ -32,12 +32,12 @@
     吕伟:比特的第一批成员，他的很多作品，尤其是他的分享精神是我们每一位biter应该学习的地方。
 
 ######2010级
-*   [mex](http://mex7.org/)
+*   [mex](http://mex7.org/)     
     杜旻翔：天真烂漫永远哈哈笑的欢乐技术男。
-*   [huip](http://www.huip.org/)  
+*   [huip](http://www.huip.org/)      
     彭慧： 来自金融工程的程序组长 ，他在比特有许多充满正能量的传奇故事，相信大家不会陌生的(偷笑)。
-*   [solome](http://www.solome.org/)
-    伍星：文艺且做的一手好菜的好室友。
+*   [solome](http://www.solome.org/)    
+    伍星：文艺且做的一手好菜的好室友。  
 ######2011级
 *   [yaozhen](http://iyaozhen.com/)      
     姚振：资讯民大之父。
