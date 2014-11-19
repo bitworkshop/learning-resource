@@ -4,3 +4,5 @@
 
 ----
 *   [python基础资料](https://github.com/ranlei/pycrumbs/blob/master/pycrumbs.md)
+*   [Hidden features of Python](http://stackoverflow.com/questions/101268/hidden-features-of-python)
+      
