@@ -38,6 +38,8 @@
     彭慧：来自金融工程的程序组长 ，他在比特有许多充满正能量的传奇故事，相信大家不会陌生的(偷笑)。
 *   [solome](http://www.solome.org/)    
     伍星：文艺且做的一手好菜的好室友。
+*   [Laker](http://laker.me/blog)    
+    黄绮：伪文艺的程序媛。
 
 ######2011级
 *   [yaozhen](http://iyaozhen.com/)      
