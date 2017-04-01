@@ -1,4 +1,4 @@
-####技术博客
+####  技术博客  
 
 *   [陈浩](http://coolshell.cn/)
 >
@@ -15,23 +15,23 @@
 > 推荐原因：张宴是民大经院的一位学长,自学技术成才，民大的很多系统都跟他有关系。
 >
 
-####biter博客
+#### biter博客
 
-######2007级
+###### 2007级
 *   [enimo](http://blog.anymoore.com/) 
     骆勤：比特第一位主管，创始人之一。
 
-######2008级
+###### 2008级
 *   [mygoare](http://mygoare.com/)  
     毛伟国：毛哥比特第一届成员，第二届主管，博客里面有很多文章可以去学习一下。
 
-######2009级
+###### 2009级
 *   [sunnist](http://sunnist.github.io/)  
     完颜绍雪：霸气的姓名，做产品的计科女。
 *   [ys](http://blog.ysmood.org)   
     吕伟：比特的第一批成员，他的很多作品，尤其是他的分享精神是我们每一位biter应该学习的地方。
 
-######2010级
+###### 2010级
 *   [mex](http://mex7.me/)     
     杜旻翔：天真烂漫永远哈哈笑的欢乐技术男。
 *   [huip](http://www.huip.org/)      
@@ -41,7 +41,7 @@
 *   [Laker](http://laker.me/blog)    
     黄绮：伪文艺的程序媛。
 
-######2011级
+###### 2011级
 *   [yaozhen](http://iyaozhen.com/)      
     姚振：资讯民大之父。
 *   [yzsolo](http://aresyz.com/)    
@@ -51,7 +51,7 @@
 *   [rale](http://ranlei.github.io/)    
     冉雷：从事python开发。
 
-######2012级
+###### 2012级
 *   [polande](http://www.polande.com)  
     黄国瑞：专业挖坑。
 
